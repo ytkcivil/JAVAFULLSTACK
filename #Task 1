@@ -1,0 +1,14 @@
+#Task 1
+IIPRSS1408
+YANNAM THARUN KUMAR
+
+
+public class AssignmentOne {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Learning java is fun");
+
+	}
+
+}
