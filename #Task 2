@@ -1,0 +1,26 @@
+
+public class AssignmentTwo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("CustomerDetails");
+		
+		int customerid = 101;
+		String a = "customer";
+		String n = "jones";
+		long m = 1122334455;
+		String h = "M";
+		String j = "customer@gmail.com";
+		System.out.println("------------------");
+		System.out.println(a+"id = "+customerid);
+		System.out.println(a+"Name = "+n);
+		System.out.println(a+"Gender = "+h);
+		System.out.println(a+"Email = "+j);
+		System.out.println(a+"Mobile = "+m);
+	
+		
+		
+
+	}
+
+}
